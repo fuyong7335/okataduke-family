@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("🏠 散らかされタイプのあなたへ")
+st.title("🏠 振り回されタイプのあなたへ")
 
 st.write("""
 あなたは「自分以外の人が片づけを崩してしまう」と感じやすい傾向があるようです。
@@ -21,3 +21,4 @@ st.markdown("""
 
 st.subheader("📩 続きのアドバイスを無料でお届けします")
 st.markdown("[詳しいアドバイスを受け取る →](https://www.reservestock.jp/subscribe/221907)")
+
