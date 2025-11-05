@@ -20,4 +20,4 @@ st.markdown("""
 """)
 
 st.subheader("📩 続きのアドバイスを無料でお届けします")
-st.markdown("[メール講座に登録して受け取る →](https://www.reservestock.jp/subscribe/221907)")
+st.markdown("[詳しいアドバイスを受け取る →](https://www.reservestock.jp/subscribe/221907)")
